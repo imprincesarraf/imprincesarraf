@@ -4,5 +4,5 @@ I am highly interested in booming technologies like Machine Learning, Artificial
 <br>
 <h4> 
   I am currently Learning<h5>
-  Python<br>Python for data science,SQL,MS EXCEL for data analytics and Machine learning alogorithms <br>
+ <br>Python for data science,SQL,MS EXCEL for data analytics and Machine learning alogorithms <br>
   
